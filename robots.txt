@@ -1,0 +1,26 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: http://harttle.com/superjp/sitemap.xml
+Sitemap: http://harttle.com/gilajp/sitemap.xml
+Sitemap: http://harttle.com/gojekpot/sitemap.xml
+Sitemap: http://harttle.com/winstrike69/sitemap.xml
+Sitemap: http://harttle.com/slotgacor/sitemap.xml
+Sitemap: http://harttle.com/slotzeus/sitemap.xml
+Sitemap: http://harttle.com/kaptenjackpot/sitemap.xml
+Sitemap: http://harttle.com/boosterjp/sitemap.xml
+Sitemap: http://harttle.com/kerajaanslot/sitemap.xml
+Sitemap: http://harttle.com/pakong86/sitemap.xml
+Sitemap: http://harttle.com/viral88/sitemap.xml
+Sitemap: http://harttle.com/clan4d/sitemap.xml
+Sitemap: http://harttle.com/dinamit4d/sitemap.xml
+Sitemap: http://harttle.com/elang212/sitemap.xml
+Sitemap: http://harttle.com/gori77/sitemap.xml
+Sitemap: http://harttle.com/viral4d/sitemap.xml
+Sitemap: http://harttle.com/playground88/sitemap.xml
